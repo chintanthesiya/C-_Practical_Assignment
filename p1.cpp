@@ -1,3 +1,11 @@
+1. Write a program to create class Student with student’s rollno, name and 
+marks of three subjects (OOCP, AI and MF) and display the details of student 
+with total marks of all subjects along with the percentage in proper format. 
+Output should be in descending order of percentage if student having same 
+percentage then consider higher marks in MF should be display first. 
+
+
+
 #include <iostream>
 #include <string>
 
