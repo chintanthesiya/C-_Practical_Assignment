@@ -1,3 +1,8 @@
+// 5. Write a program to create class employee with employee’s id, name and basic 
+// salary. Calculate gross salary for each employee(HRA 20%, DA 30%, OA 10%). 
+// Also count total number of employee records that are entered.
+
+
 #include <iostream>
 #include <string>
 
