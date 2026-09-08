@@ -1,3 +1,8 @@
+// 6. Write a program to define a class called book. Write a program to read 
+// information about 10 books and display books details in ascending order of 
+// price in proper format. 
+
+
 #include <iostream>
 #include <string>
 
