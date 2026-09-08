@@ -1,3 +1,7 @@
+3. Write a program to create class Time (int h, int m). Read a value as minutes 
+from user to display new time after adding the value to minutes in Time. 
+
+
 #include <iostream>
 using namespace std;
 
