@@ -1,3 +1,8 @@
+// 4. Write a program to create class Date (int day, int month, int year). Read a 
+// value as day from user to display new date after adding the value to day in 
+// Date. 
+
+
 #include <iostream>
 using namespace std;
 
